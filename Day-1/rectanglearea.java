@@ -1,3 +1,4 @@
+// Writing a java program to print the area of a rectangle for given length & breadth.
 import java.util.Scanner;
 
 public class rectanglearea {
