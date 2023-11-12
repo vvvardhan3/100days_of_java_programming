@@ -5,7 +5,8 @@ public class rectanglearea {
         Scanner ob = new Scanner(System.in);
         double length = ob.nextDouble();
         double breadth = ob.nextDouble();
-        System.err.println("Area of Rectangle: " + length*breadth);
+        System.out.println("Area of Rectangle: " + length * breadth);
         ob.close();
+        
     }
 }
