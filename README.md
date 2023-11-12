@@ -13,3 +13,5 @@
         2.Userinput & their sum and product
 
 ## Day-4 
+        1.Sum of two integers using plus operator
+        2.Area of trianlge using formula
