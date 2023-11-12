@@ -1,3 +1,4 @@
+// Writing a java program to add two integers using plus operator
 import java.util.Scanner;
 
 public class plusoperator {
