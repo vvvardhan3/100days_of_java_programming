@@ -20,8 +20,11 @@
         1.Float number to integer
         2.Area of cricle
 ## Day-6 
-        1. Finding weather a given number is positive or negative
-        2. Finding weather a given year is leap or non-leap year
+        1. Find weather a given number is positive or negative
+        2. Find weather a given year is leap or non-leap year
 ## Day-7
-        1. Finding weather a given number is Even or Odd
-        2. Finding Compound Interest using the given Prinical Amount, Rate of Interest and Time.
+        1. Find weather a given number is Even or Odd
+        2. Find Compound Interest using the given Prinical Amount, Rate of Interest and Time.
+## Day-8
+        1. Identify a character weather it is a vowel or consonant
+        2. Identify weather a charater is Alphabet or not
