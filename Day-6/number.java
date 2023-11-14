@@ -1,3 +1,4 @@
+// Writing a java program to print weather a number is positive or negative.
 import java.util.Scanner;
 
 public class number {
