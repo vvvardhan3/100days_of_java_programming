@@ -24,4 +24,4 @@
         2. Finding weather a given year is leap or non-leap year
 ## Day-7
         1. Finding weather a given number is Even or Odd
-        2. Finding Compound Interest using the Prinical Amount, Rate of Interest and Time.
+        2. Finding Compound Interest using the given Prinical Amount, Rate of Interest and Time.
