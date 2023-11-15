@@ -28,3 +28,6 @@
 ## Day-8
         1. Identify a character weather it is a vowel or consonant
         2. Identify weather a charater is Alphabet or not
+## Day-9
+        1. Find the largest of two numbers
+        2. Find the largest of three numbers
