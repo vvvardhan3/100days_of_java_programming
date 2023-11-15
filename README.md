@@ -31,3 +31,6 @@
 ## Day-9
         1. Find the largest of two numbers
         2. Find the largest of three numbers
+## Day-10
+        1. Find the quadrants in which coordinates lie
+        2. 
