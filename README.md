@@ -36,7 +36,7 @@
         2. Find the number of days in a given month of a given year
 ## Day-11
         1. Calculate salary after the tax within given tax slabs
-        2. Roots of QE
+        2. Find the roots of quadratic equation
 ## Day-12
         1. Find the biggest of two numbers using ternary operator
         2. Simple calculator using switch statements
