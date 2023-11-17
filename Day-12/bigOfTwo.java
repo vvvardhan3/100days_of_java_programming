@@ -1,4 +1,4 @@
-// Writing a java code to print the biggest of two numbers using ternary operator
+// Writing a java code to find the biggest of two numbers using ternary operator
 
 import java.util.Scanner;
 
