@@ -34,3 +34,9 @@
 ## Day-10
         1. Find the quadrants in which coordinates lie
         2. Find the number of days in a given month of a given year
+## Day-11
+        1. Calculate income tax based on income slabs
+        2. Roots of QE
+## Day-12
+        1. Find the biggest of two numbers using ternary operator
+        2. 
