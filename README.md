@@ -39,4 +39,4 @@
         2. Roots of QE
 ## Day-12
         1. Find the biggest of two numbers using ternary operator
-        2. Simple calculator using switch statement
+        2. Simple calculator using switch statements
