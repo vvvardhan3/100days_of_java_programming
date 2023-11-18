@@ -40,3 +40,6 @@
 ## Day-12
         1. Find the biggest of two numbers using ternary operator
         2. Simple calculator using switch statements
+## Day-13
+        1. Printing all the integers between two inputs integers
+        2. Find the sum of N natural numbers 
