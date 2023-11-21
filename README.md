@@ -45,7 +45,7 @@
         2. Find the sum of N natural numbers
 ## Day-14
         1. Print the square asterisks
-        2. Reverse the given number
+        2. Reverse the given input Number
 ## Day-15
         1. Find weather a given number is prime or not a prime
-        2.
+        2. Reverse the given input String
