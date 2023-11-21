@@ -1,5 +1,5 @@
 package Reverse_String;
-// Writing a java program to reverse the given input
+// Writing a java program to reverse the given input String
 import java.util.Scanner;
 
 public class reverseString {

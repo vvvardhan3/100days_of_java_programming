@@ -49,3 +49,6 @@
 ## Day-15
         1. Find weather a given number is prime or not a prime
         2. Reverse the given input String
+## Day-16
+        1. Find the number of Digits in a given Integer
+        2. Find Factorial of a Number
