@@ -42,4 +42,10 @@
         2. Simple calculator using switch statements
 ## Day-13
         1. Printing all the integers between two inputs integers
-        2. Find the sum of N natural numbers 
+        2. Find the sum of N natural numbers
+## Day-14
+        1. Print the square asterisks
+        2. Reverse the given number
+## Day-15
+        1. Find weather a given number is prime or not a prime
+        2.
