@@ -52,3 +52,9 @@
 ## Day-16
         1. Find the number of Digits in a given Integer
         2. Find Factorial of a Number
+## Day-17
+        1.
+        2.
+## Day-18
+        1. Find the maximum element in an array
+        2. Print a simple right-angled triangle pattern of asterisks
