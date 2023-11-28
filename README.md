@@ -60,3 +60,4 @@
         2. Print a simple right-angled triangle pattern of asterisks
 ## Day-19
         1. Merge three arrays
+        2. Missing number in an array 
