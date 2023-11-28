@@ -3,7 +3,7 @@
 public class missingNumber {
     public static void main(String[] args) {
         
-        int a[] = {11,12,14,15};
+        int a[] = {11,12,14,15,16,17,18,19,20};
 
         // There should be no duplicates
         // Elements should be in range
@@ -23,7 +23,7 @@ public class missingNumber {
 
         int SumOfTheRange = 0;
 
-        for(int i =11;i<=15;i++){
+        for(int i =a[0];i<=a[a.length-1];i++){
             SumOfTheRange = SumOfTheRange + i;
         }
         // System.out.println("Sum of the elements inside the array is: " + SumOfTheRange);
