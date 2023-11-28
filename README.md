@@ -58,3 +58,5 @@
 ## Day-18
         1. Find the maximum element in an array
         2. Print a simple right-angled triangle pattern of asterisks
+## Day-19
+        1. Merge three arrays
