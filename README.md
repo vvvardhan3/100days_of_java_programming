@@ -60,4 +60,7 @@
         2. Print a simple right-angled triangle pattern of asterisks
 ## Day-19
         1. Merge three arrays
-        2. Missing number in an array 
+        2. Missing number in an array
+## Day-20
+        1. Find Sum of N natural numbers
+        2. Find the Sum of digits of a given number 
