@@ -14,11 +14,12 @@ public class Addfraction {
         System.out.println("Enter value of y2: ");
         int y2 = obj.nextInt();
 
-        int x3 = (x1 * y2) + (x2 * y1);
-        int y3 = (y1 * y2);
+        int x3 = x1 * y2 + x2 * y1;
+        int y3 = y1 * y2;
 
-        System.out.println(x3/y3);
+        System.out.println(+x3+"/"+y3);
 
+        // Need more work!!
 
         obj.close();
     }
