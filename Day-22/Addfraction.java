@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class fraction {
+public class Addfraction {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter value of x1: ");
