@@ -66,4 +66,4 @@
         2. Find the Sum of digits of a given number 
 ## Day-21
         1. Find the reverse of a number
-        2.
+        2. Find the factors of the number
