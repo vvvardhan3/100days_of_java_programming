@@ -64,3 +64,6 @@
 ## Day-20
         1. Find Sum of N natural numbers
         2. Find the Sum of digits of a given number 
+## Day-21
+        1. Find the reverse of a number
+        2.
