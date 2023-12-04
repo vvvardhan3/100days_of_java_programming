@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class practice {
+public class largest {
     public static void main(String[] args) {
 
         Scanner obj = new Scanner(System.in);
