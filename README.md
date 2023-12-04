@@ -70,3 +70,6 @@
 ## Day-22
         1. Find the addition of two fractions
         2. Find the largest number and it's index value in a given array
+## Day-23
+        1. Find the smallest word and it's index in a given Array in term of length
+        2. Find the second largest integer and it's index in a given Array

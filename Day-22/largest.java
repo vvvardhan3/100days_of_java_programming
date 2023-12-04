@@ -25,8 +25,11 @@ public class largest {
         int largestNumberIndex = 0;
 
         for(int i = 0; i< arr.length; i++){
-            largestNumber = arr[i];
-            largestNumberIndex = i;
+            if (largestNumber < arr[i]) {
+                largestNumber = arr[i];
+                largestNumberIndex = i;
+            }
+            
         }
 
         System.out.println("Largest Number in a given array is: " + largestNumber);
