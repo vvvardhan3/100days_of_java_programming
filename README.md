@@ -67,3 +67,6 @@
 ## Day-21
         1. Find the reverse of a number
         2. Find the factors of the number
+## Day-22
+        1. Find the addition of two fractions
+        2. Find the largest number and it's index value in a given array
