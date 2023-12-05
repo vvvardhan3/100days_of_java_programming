@@ -23,9 +23,6 @@ public class secondlargest {
         int secondLargestNumber = 0;
         int secondLargestNumberIndex = 0;
         
-
-
-
         for(int i = 0; i< arr.length; i++){
 
             if (largestNumber < arr[i]) {
