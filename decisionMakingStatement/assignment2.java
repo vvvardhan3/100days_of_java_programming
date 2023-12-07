@@ -1,3 +1,4 @@
+// Print the pass/fail remark with the given user input percentage
 package decisionMakingStatement;
 
 import java.util.Scanner;
