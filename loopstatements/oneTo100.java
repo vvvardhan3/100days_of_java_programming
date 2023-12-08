@@ -1,6 +1,7 @@
+// Print the numbers from 1 to 100
 package loopstatements;
 
-public class assignment1 {
+public class oneTo100 {
     public static void main(String[] args) {
         int i = 1;
 
