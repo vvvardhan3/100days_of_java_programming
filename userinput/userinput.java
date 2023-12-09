@@ -12,7 +12,7 @@ public class userinput {
 
         System.out.printf("Hey %s, How are you doing? \n", name);
 
-        String state = obj.nextLine();
+        // String state = obj.next();
 
         System.out.printf("What's your age? \n");
 

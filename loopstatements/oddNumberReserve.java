@@ -4,7 +4,7 @@ package loopstatements;
 //  Print the reverse order of the odd number 
 import java.util.Scanner;
 
-public class assignment6 {
+public class oddNumberReserve {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter the end number: ");

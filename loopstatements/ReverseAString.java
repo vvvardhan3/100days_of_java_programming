@@ -9,9 +9,6 @@ public class ReverseAString {
         System.out.println("Enter a String: ");
         String input = obj.next();
 
-        
-
-
         StringBuffer sB = new StringBuffer(input);
         System.out.println(sB.reverse());
         obj.close();
