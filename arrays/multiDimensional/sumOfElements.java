@@ -1,4 +1,4 @@
-// Sum of elements in an multidimentional array
+// Sum of elements in an multidimensional array
 package arrays.multiDimensional;
 
 public class sumOfElements {
