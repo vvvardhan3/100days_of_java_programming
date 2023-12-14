@@ -7,14 +7,19 @@ public class modifyString {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter a String: ");
         String input = obj.nextLine();
-        //char[] input_arr = input.toCharArray();
-        //String[] str_words = input.split(" ");
+        char[] input_array = input.toCharArray();
 
-        for(int i = 1; i<input.split(" ").length; i = i+2){
-            String[] str_words = input.split(" ");
-            System.out.println(str_words);
+        String[] str_words = input.split(" ");
+
+        for(String word : str_words){
+            System.out.println(word);
         }
-        System.out.println(input.split(" ").length);           
+
+        for(int i = 1; i < input_array.length; i = i+2){
+            input_array[i] = Character.toUpperCase(input_array[i]);
+        }
+        System.out.println(new String(input_array));
+
         obj.close();
     }
 }
