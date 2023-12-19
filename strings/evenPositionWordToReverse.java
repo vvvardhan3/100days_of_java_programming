@@ -23,10 +23,6 @@ public class evenPositionWordToReverse {
                 System.out.println(new StringBuilder(words[i]).reverse()+ " ");
             }
         }
-
-
-
-
         obj.close();
     }
 }
