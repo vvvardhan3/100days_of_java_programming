@@ -26,7 +26,7 @@ public interface loptop {
 
     /* From Java- 1.9 */
 
-    private static void audio(){
+    private static void audio(){ /* 'Private' is introduced to implement code resuablity inside a interface */
         System.out.println("Hello Singer");
     }
 
