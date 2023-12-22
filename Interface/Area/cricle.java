@@ -1,12 +1,14 @@
 package Interface.Area;
 
 public class cricle implements getArea {
-    public static void main(String[] args) {
-        
+
+    private double radius;
+    
+    public cricle(double radius){
+        this.radius = radius;
     }
 
-    @Override
-    public void Area() {
-       System.out.println("Area Of the Cricle: ");
+    public double Area() {
+       return radius * radius;
     }
 }

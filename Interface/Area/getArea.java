@@ -1,9 +1,6 @@
 package Interface.Area;
 
 public interface getArea {
-    public void Area();
-
-    
-
-    
+    public double Area();
+ 
 } 
