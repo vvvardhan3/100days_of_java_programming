@@ -1,4 +1,4 @@
-package Interface;
+package Interface.loptop;
 
 public interface loptop {
     public void read();

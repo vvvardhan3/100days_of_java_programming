@@ -1,4 +1,4 @@
-package Interface;
+package Interface.loptop;
 
 public class Lenovo implements loptop {
 
