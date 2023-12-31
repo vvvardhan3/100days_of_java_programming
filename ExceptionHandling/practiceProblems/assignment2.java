@@ -22,7 +22,7 @@ public class assignment2 {
         try {
             method();
         } catch (OddNumberException e) {
-            System.err.println(e.getMessage());
+            System.err.println(e.toString());
         }
     }
 }
