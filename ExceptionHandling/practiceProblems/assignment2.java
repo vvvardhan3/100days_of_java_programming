@@ -1,3 +1,4 @@
+// Java program to create a method that takes an integer as a parameter and throws an exception if the number is odd.
 package ExceptionHandling.practiceProblems;
 import java.util.Scanner;
 
