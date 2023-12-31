@@ -10,7 +10,7 @@ public class pojoClass {
 
 
     public pojoClass(){
-        System.out.println("This is empty constructor");
+        // System.out.println("This is empty constructor");
     } 
 
     /* Getters and Setter are Recommended */
