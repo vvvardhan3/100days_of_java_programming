@@ -34,8 +34,9 @@ public class vectorPractice {
         System.out.println(v1);
 
         // Retrieval of the elements from the List
-        System.out.println(v1.get(5)); // Only have one Retrieval method based on the index we will retrie the elements from the list
-        
+        System.out.println(v1.get(5)); /*Only have one Retrieval method based on the index 
+        we will retrie the elements from the list */
+
     }
     
 }
