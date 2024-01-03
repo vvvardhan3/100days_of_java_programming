@@ -4,8 +4,6 @@ package collections.collection.list;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
-
 public class assignment8 {
     public static void Operation(){
         Integer[] list1 = new Integer[]{4,9,8,5};
@@ -17,8 +15,8 @@ public class assignment8 {
 
         System.out.println("Given List1: " + arrayList1);
         System.out.println("Given List2: " + arrayList2);
-        for (Integer integer : arrayList1) {
-            if (arrayList2.contains(integer) && !CombinedList.contains(integer)) {
+        for (Integer integer : arrayList2) {
+            if (arrayList1.contains(integer) && !CombinedList.contains(integer)) {
                 CombinedList.add(integer);
             }
             
