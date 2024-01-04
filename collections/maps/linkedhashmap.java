@@ -4,8 +4,8 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-public class hashtable {
-    public static void HashTable(){
+public class linkedhashmap {
+    public static void LinkedHashMap(){
         System.out.println("Creation of a map: ");
         Map<Integer,String> m = new HashMap<>();
         System.out.println();
@@ -71,7 +71,7 @@ public class hashtable {
 
     }
     public static void main(String[] args) {
-        HashTable();
+        LinkedHashMap();
     }
     
 }

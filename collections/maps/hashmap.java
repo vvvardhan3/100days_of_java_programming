@@ -1,11 +1,9 @@
 package collections.maps;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
-public class hashtable {
-    public static void HashTable(){
+public class hashmap {
+    public static void HashMap(){
         System.out.println("Creation of a map: ");
         Map<Integer,String> m = new HashMap<>();
         System.out.println();
@@ -71,7 +69,6 @@ public class hashtable {
 
     }
     public static void main(String[] args) {
-        HashTable();
+        HashMap();
     }
-    
 }
