@@ -12,9 +12,6 @@ public class assigment18 {
         employees.add(new employee("Preethi", 103,7500000.31,"India"));
         employees.add(new employee("Bandi", 104,7500000.31,"USA"));
 
-        
-
-        
         String target1Country = "India";
         System.out.println(target1Country +": ");
         for (employee employee : employees) {
@@ -23,7 +20,6 @@ public class assigment18 {
             }
            
         }
-
         String target2Country = "USA";
         System.out.println(target2Country +": ");
         for (employee employee : employees) {
@@ -32,8 +28,6 @@ public class assigment18 {
             }
            
         }
-        
-        
     }
     public static void main(String[] args) {
         employeeList();
