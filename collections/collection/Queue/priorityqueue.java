@@ -1,6 +1,7 @@
 package collections.collection.Queue;
 
 
+import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
@@ -50,8 +51,24 @@ public class priorityqueue {
         System.out.println();
 
     }
+     public static void queue1(){
+        // Creation:
+        Queue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
+        pq.add(1);
+        pq.offer(2);
+        pq.add(3);
+        pq.offer(4);
+        pq.add(5);
+
+        for (Integer integer : pq) {
+            System.out.println(integer);
+        }
+
+     }
+
     public static void main(String[] args) {
         queue();
+        queue1();
     }
    
     
