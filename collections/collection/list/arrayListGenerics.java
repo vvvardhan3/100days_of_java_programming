@@ -9,7 +9,7 @@ public class arrayListGenerics {
     }
 
     public static void ArrayListGenerics(){
-        String[] array = new String[]{"Preethi", "Vishnu", "Tomato", "Bandi"};
+        String[] array = new String[]{"Preethi", "Vishnu", "Tomato", "bharagv"};
         ArrayList<String> aL = new ArrayList<>(Arrays.asList(array));
 
         System.out.println(aL);
