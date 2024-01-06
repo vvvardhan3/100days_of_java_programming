@@ -7,6 +7,7 @@ public class linkedHashset {
      public static void set(){
         /* No Duplicates
          * Null value allowed
+         * Follow Insertion
          */
         System.out.println("Creation: ");
         LinkedHashSet<Integer> lhs = new LinkedHashSet<>();
@@ -28,7 +29,9 @@ public class linkedHashset {
             System.out.println(integer);
         }
 
-        
+        System.out.println("Removing all elements from the set: ");
+        lhs.clear();
+        System.out.println(lhs);
 
     }
     public static void main(String[] args) {

@@ -6,6 +6,7 @@ public class hashset {
     public static void set(){
         /* No Duplicates
          * Null value allowed
+         * Don't Follow Insertion
          */
         System.out.println("Creation: ");
         HashSet<Integer> hashset = new HashSet<>();
