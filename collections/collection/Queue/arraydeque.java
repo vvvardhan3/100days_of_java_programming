@@ -7,7 +7,10 @@ public class arraydeque {
         ArrayDeque<Integer> ad = new ArrayDeque<>();
         ad.add(3);
         ad.add(4);
+        ad.add(4);
         ad.add(5);
+        ad.add(5);
+        ad.add(null);
         System.out.println(ad);
 
         System.out.print("Enter element at head position: ");
