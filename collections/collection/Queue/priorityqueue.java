@@ -8,30 +8,47 @@ public class priorityqueue {
     public static void queue(){
         // Creation:
         Queue<Integer> pq = new PriorityQueue<>();
-        // Addition:
+        System.out.println("Addition: ");
         pq.add(1);
         pq.offer(2);
         pq.add(3);
         pq.offer(4);
         pq.add(5);
         System.out.println(pq);
-        // Verifications:
+        System.out.println("Verifications: ");
         System.out.println(pq.contains(1));
-        // Retrieval:
-        System.out.println(pq.peek());
+
+        System.out.println("Retrieval: ");
+        System.out.println(pq.peek()); // Returns element
+        System.out.println();
+
         
-        // Removal:
-        pq.remove(1);
+
+        System.out.println("Removal: ");
+        pq.remove(); // removes element from the queue
         System.out.println(pq);
+        System.out.println();
 
-        
-        int size = pq.size();
-        System.out.println(size);
-
-        // Printing EveryElements:
+        System.out.println("Printing Every Elements: ");
         for (Integer integer : pq) {
             System.out.println(integer);
         }
+        System.out.println();
+
+        // while (!pq.isEmpty()) {
+        //     System.out.println(pq.poll());
+        // }
+
+        // System.out.println();
+        
+      
+
+        // size:
+        int size = pq.size();
+        System.out.println("Size: " + size);
+
+        System.out.println();
+
     }
     public static void main(String[] args) {
         queue();
