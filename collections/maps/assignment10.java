@@ -1,5 +1,5 @@
 // Java program to retrieve all the key-value pairs present in HashMap
-package collections.collection.maps;
+package collections.maps;
 
 import java.util.*;
 import java.util.Map.Entry;
