@@ -21,12 +21,15 @@ public class asssignmen1 {
             stack.push(q.remove());
         }
 
+         Queue<Integer> q1 = new LinkedList<>();
+
         while (stack.size() > 0) {
-            q.add(stack.pop());
+            q1.add(stack.pop());
         }
 
-        System.out.println(q);
+        System.out.println(q1);
 
+       
     }
     public static void main(String[] args) {
         queue();

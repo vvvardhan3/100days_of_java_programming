@@ -11,8 +11,10 @@ public class priorityqueue {
         /* Duplicates 'Yes' 
         Nulls 'No' */
         Queue<Integer> pq = new PriorityQueue<>();
+        Queue<Integer> pq1 = new PriorityQueue<>();
         System.out.println("Addition: ");
         pq.add(1);
+        pq1.add(1);
         pq.offer(2);
         pq.add(3);
         pq.offer(4);
@@ -20,6 +22,7 @@ public class priorityqueue {
         System.out.println(pq);
         System.out.println("Verifications: ");
         System.out.println(pq.contains(1));
+        System.out.println(pq.containsAll(pq1));
 
         System.out.println("Retrieval: ");
         System.out.println(pq.peek()); // Returns element
