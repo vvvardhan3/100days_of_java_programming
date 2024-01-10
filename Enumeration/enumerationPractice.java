@@ -11,6 +11,7 @@ public class enumerationPractice{
          *  Introduced for iterating the lagacy collection objects (Classes that are introduced in Verison  1.0)
          *  Those are HashTable, Stack, Vector, Dictionary and Properties
          *  Hence, Enumeration is a Legacy Interface!
+         *  One-Direction and Read-Only Operation
          */
 
         Stack<Integer> st = new Stack<>();
