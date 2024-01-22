@@ -16,7 +16,7 @@ public class methods {
         // System.out.println(sb.capacity()); // 16(Default Size) + 5 Characters
         
         // System.out.println(sb);
-        // System.out.println(sb1);
+        System.out.println(sb1);
     }
     public static void main(String[] args) {
         stringbuffer();
