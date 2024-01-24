@@ -1,4 +1,4 @@
-package InterviewPrepQuestions;
+
 
 public class firstNonrepeating {
     public static void main(String[] args) {

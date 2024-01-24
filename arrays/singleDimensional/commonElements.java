@@ -1,7 +1,10 @@
+import java.util.*;
+
 public class commonElements {
     public static void main(String[] args) {
-        int[] nums1 = {4,3,2,3,1};
-        int[] nums2 = {2,2,5,2,3,5};
+        int[] nums1 = {};
+        int[] nums2 = {};
+        List<Integer> result = new ArrayList<>();
         
         Set<Integer> set = new HashSet<>();
         for (int i = 0; i < nums1.length; i++) {
@@ -11,7 +14,29 @@ public class commonElements {
                 }
             }
         }
-        System.out.println(set);
+        
+        int count1 = 0;
+        for (int i = 0; i < nums1.length; i++) {
+            for (int j = 0; j < set.size(); j++) {
+                if (set.contains(nums1[i])) {
+                    count1++;
+                    break;
+                }
+            }  
+        } result.add(count1);
+
+
+        int count2 = 0;
+        for (int i = 0; i < nums2.length; i++) {
+            for (int j = 0; j < set.size(); j++) {
+                if (set.contains(nums2[i])) {
+                    count2++;
+                    break;
+                }
+            }  
+        } result.add(count2);
+
+        System.out.println(result);
 
     }
 }
