@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="StringBuffer&amp;StringBuilder"/>
 	<classpathentry kind="src" path="arrays/singleDimensional"/>
+	<classpathentry kind="src" path="Algorithms/Sort"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
